@@ -6,7 +6,7 @@ public class GetConfilctMssg {
 	
 @Test
 public void getConfilctMssg() {
-	System.out.println("");
+	System.out.println("  chg");
 	
 }
        

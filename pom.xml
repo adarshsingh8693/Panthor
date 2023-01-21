@@ -54,7 +54,7 @@
 
 <profiles>
 <profile>
-<id>sanity</id>
+<id>smoke</id>
 <build>
 <pluginManagement>
 <plugins>
