@@ -54,7 +54,7 @@
 
 <profiles>
 <profile>
-<id>smoke</id>
+<id></id>
 <build>
 <pluginManagement>
 <plugins>
