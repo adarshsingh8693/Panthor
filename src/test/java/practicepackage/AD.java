@@ -11,7 +11,7 @@ public class AD {
 
 	@Test
 	public void test10() {
-		System.out.println("I am in test 010 sanity");
+		System.out.println("Chanes amade");
 	}
 
 	@Test
