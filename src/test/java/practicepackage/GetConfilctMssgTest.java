@@ -2,7 +2,7 @@ package practicepackage;
 
 import org.testng.annotations.Test;
 
-public class GetConfilctMssg {
+public class GetConfilctMssgTest {
 
 	
 	@Test
