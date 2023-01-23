@@ -10,9 +10,10 @@
 
   <test  name="TestDemo">
     <classes>
-      <class name="practicepackage.CreateTest01"/>
-      <class name="practicepackage.CreateTest02"/>
+      <class name="practicepackage.Create01Test"/>
+      <class name="practicepackage.Create02Test"/>
       <class name="practicepackage.CreateTest"/>
+      <class name="practicepackage.JenkisTest"/>
     </classes>
   </test> <!-- TestDemo -->
 </suite> <!-- SuiteDemo -->
