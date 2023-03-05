@@ -3,7 +3,7 @@ package practicepackage;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class CreateTest02 {
+public class Create02Test {
 	
 	
 	@Test(groups= {"sanity"})

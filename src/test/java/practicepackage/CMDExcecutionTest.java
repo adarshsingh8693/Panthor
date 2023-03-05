@@ -2,12 +2,12 @@ package practicepackage;
 
 import org.testng.annotations.Test;
 
-public class CMDExcecution{
+public class CMDExcecutionTest{
 	
 	@Test
 	public void  test() {
 		String BROWSER=System.getProperty("browser");
-		String URL=System.getenv("PROCESSOR_LEVEL");
+		String URL=System.getProperty("url");
 		
 		System.out.println(BROWSER);
 		System.out.println(URL);
