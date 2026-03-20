@@ -1,4 +1,4 @@
-package practicepackage;
+ package practicepackage;
 
 public class ATest {
 
